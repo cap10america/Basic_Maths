@@ -93,6 +93,7 @@ int main()
 {
    // void basic_maths();
    // void reverse_num();
+   //git pugit sh --help
    void palindrome();
     return 0;
 }
