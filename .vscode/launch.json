@@ -1,14 +1,15 @@
 {
   "version": "0.2.0",
   "configurations": [
+
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [],
+      "args": [], 
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/gtagame folder/GTA VC/relocated/c++/basic_maths",
+      "cwd": "d:/gtagame folder/GTA VC/relocated/c++/basic_maths/",
       "program": "d:/gtagame folder/GTA VC/relocated/c++/basic_maths/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
